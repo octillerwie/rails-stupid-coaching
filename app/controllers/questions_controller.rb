@@ -1,4 +1,3 @@
-# ruby controller
 class QuestionsController < ApplicationController
   def answer
     question = params[:question]
